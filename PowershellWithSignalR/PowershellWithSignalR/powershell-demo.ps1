@@ -1,4 +1,5 @@
-﻿Write-Progress "Start executing the script..."
+﻿Start-Sleep -s 1
+Write-Progress "Start executing the script..."
 Start-Sleep -s 2
 Write-Progress "Step 1 done"
 Start-Sleep -s 2
